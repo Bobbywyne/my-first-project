@@ -1,0 +1,4 @@
+To-do List:
+- Define data schemas
+- Script the cleaning process
+- Test Git integration
