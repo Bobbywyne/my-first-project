@@ -1,0 +1,1 @@
+This project demonstrates Git collaboration skills. It covers branching, merging, and conflict resolution.
