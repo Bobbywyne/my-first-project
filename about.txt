@@ -1,1 +1,3 @@
 This project focuses on automating data workflows and organizing scripts for easy retrieval.
+Version: 1.0
+Version: 1.0
